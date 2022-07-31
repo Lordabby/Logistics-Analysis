@@ -11,8 +11,6 @@ https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-
 ----
 # Data Preparation
 The dataset was converted into. XLSX format was stored in a secure worksheet.
-----
-# Data Preparation
 i. Data formatting
 ii. Data Trimming
 iii. Fixing data type and typecasting.
